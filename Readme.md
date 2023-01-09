@@ -11,7 +11,7 @@ arts
 krystian popiołek 
 
 ```
-
+Hej myślę ze to niedziala na komputerze ale to naprawie
 
 ```
 {% blockquote krystianpopiolek URL https://github.com/Kashumy %}
