@@ -44,7 +44,6 @@ p{
   width: 100px;
   height:100px;
   margin :10px;
-  z-index: 3;
 }
 .przycisk2 {
   outline: none;
@@ -59,31 +58,37 @@ p{
   top:220px;
   left: 150px;
   color:#323232;
+ z-index :5;
 }
 .d{
   position :absolute;
   top:330px;
-  left: 150px
+  left: 150px;
+z-index :5;
 }
 .C{
   position :absolute;
   top:330px;
-  left: 40px
+  left: 40px;
+z-index :5;
 }
 .E{
 position :absolute;
   top:330px;
-  left: 260px
+  left: 260px;
+z-index :5;
 }
 .S {
   position: absolute;
   top: 330px;
-  left: 1460px
+  left: 1460px;
+z-index :5;
 }
 .F {
   position: absolute;
   top: 220px;
-  left: 1460px
+  left: 1460px;
+z-index :5;
 } 
 :root {
   touch-action: pan-x pan-y;
@@ -156,7 +161,7 @@ body {
   display :block ;
   width :99%;
   height :99%;
-  z-index: 0;
+  z-index: -1;
   background :black ;
   
 }
