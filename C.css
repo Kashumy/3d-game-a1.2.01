@@ -36,7 +36,7 @@ p{
   position :absolute ;
   color :#C2C2C2;
   font-size :20px;
-  z-index: 3;
+  z-index: 3000;
 }
 .przycisk{
 position:absolute;
