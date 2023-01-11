@@ -40,7 +40,7 @@ p{
 }
 .przycisk{
 position:absolute;
-z-index :5;
+
   outline: none;
   background :#A6A6A6A3;
   width: 100px;
